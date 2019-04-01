@@ -1,0 +1,12 @@
+c:\users\raghs\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.deps.json
+c:\users\raghs\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.json
+c:\users\raghs\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.dev.json
+c:\users\raghs\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.dll
+c:\users\raghs\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.csprojAssemblyReference.cache
+c:\users\raghs\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.csproj.CoreCompileInputs.cache
+c:\users\raghs\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfoInputs.cache
+c:\users\raghs\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfo.cs
+c:\users\raghs\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.pdb
+c:\users\raghs\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.dll
+c:\users\raghs\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.pdb
+c:\users\raghs\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.dll.config
